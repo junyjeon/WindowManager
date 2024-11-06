@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-g++ CMakeFiles/WindowManager.dir/src/main.cpp.o CMakeFiles/WindowManager.dir/src/WindowManager.cpp.o -o WindowManager  -luser32 -lgdi32 -lshell32 -lole32 -luuid -ldwmapi 

@@ -1,0 +1,3 @@
+/home/jun/11_November/WindowManager/build/CMakeFiles/WindowManager.dir
+/home/jun/11_November/WindowManager/build/CMakeFiles/edit_cache.dir
+/home/jun/11_November/WindowManager/build/CMakeFiles/rebuild_cache.dir
