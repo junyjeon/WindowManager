@@ -1,0 +1,3 @@
+C:/Users/jjy84/Desktop/cursor_project/WindowManager/build/CMakeFiles/WindowManager.dir
+C:/Users/jjy84/Desktop/cursor_project/WindowManager/build/CMakeFiles/edit_cache.dir
+C:/Users/jjy84/Desktop/cursor_project/WindowManager/build/CMakeFiles/rebuild_cache.dir

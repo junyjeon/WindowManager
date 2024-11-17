@@ -1,0 +1,5 @@
+# ninja log v6
+12	1300	7534434246347655	CMakeFiles/WindowManager.dir/src/simple_manager.cpp.obj	b26ccaf16d83efbc
+11	104	7534434432950340	bin/WindowManager.exe	462dd6872e00fe43
+12	1184	7534435881176342	CMakeFiles/WindowManager.dir/src/simple_manager.cpp.obj	b26ccaf16d83efbc
+1185	1281	7534435892906358	bin/WindowManager.exe	462dd6872e00fe43
